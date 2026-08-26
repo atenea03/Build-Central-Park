@@ -12,6 +12,8 @@ An optimized exterior remapping for the construction area located in front of th
 * **100% Optimised** (Guaranteed performance for your server).
 * **Exterior mapping** (Focused exclusively on the exterior environment).
 * **Compatible with NoPixel Visual**.
+* **Compatible with Fivem Legacy**.
+* **Compatible with Fivem Enhanced**.
 
 ---
 
