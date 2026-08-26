@@ -4,7 +4,7 @@ An optimized exterior remapping for the construction area located in front of th
 
 ![version](https://img.shields.io/badge/version-v2026-orange) ![platform](https://img.shields.io/badge/platform-Windows%20%2F%20FiveM-blue) ![license](https://img.shields.io/badge/license-Atenea%20Store%20Tools-yellow)
 
-![1](https://i.imgur.com/WoPakij.jpeg)
+![1](https://i.imgur.com/10gBnvF.jpeg)
 ---
 
 ### 📌 Main Features
